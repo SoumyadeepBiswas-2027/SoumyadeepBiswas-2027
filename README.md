@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
-- 💬 Ask me about **Python, C, HTML, CSS, JavaScript, Java, Numpy ,Pandas**
+- 💬 Ask me about **Python, C, HTML, CSS, JavaScript, Java, ReactJS, Numpy, Pandas**
 
 - 📫 How to reach me **soumyadeep.bs2023@gmail.com**
 
