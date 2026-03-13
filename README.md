@@ -16,14 +16,15 @@
 - 📫 How to reach me **soumyadeep.bs2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
-<a href="https://linkedin.com/in/soumyadeep-biswas" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/soumyadeep-biswas" target="_blank" style="text-decoration:none; margin-right:15px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" style="vertical-align:middle;" />
 </a>
 
-<a href="https://x.com/Soumyadeep58881" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" width="30" />
+<a href="https://x.com/Soumyadeep58881" target="_blank" style="text-decoration:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" width="30" style="vertical-align:middle;" />
 </a>
 
 </p>
