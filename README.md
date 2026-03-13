@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadeepbiswas-2027&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepbiswas-2027" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadeepbiswas-2027" alt="soumyadeepbiswas-2027" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadeepbiswas-2027" alt="soumyadeepbiswas-2027" /></a> 
+  <a href="https://twitter.com/Soumyadeep58881" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SoumyaOnCode" height="30" width="40" />
+</a>
+
+</p>
 
 - 🌱 I’m currently learning **React & Java**
 
