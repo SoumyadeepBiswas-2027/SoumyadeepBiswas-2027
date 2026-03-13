@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://x.com/Soumyadeep58881" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" width="30" />
