@@ -76,7 +76,7 @@
 
 <!-- Stats Section -->
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadeepbiswas-2027&show_icons=true&locale=en&layout=compact" height="160"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepbiswas-2027" height="160"/>
