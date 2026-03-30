@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Biswas</h1>
 <h3 align="center">A passionate developer "Empowering collaboration through code"</h3>
 
-<br>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=soumyadeepbiswas-2027&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
-<br>
 
 - 🌱 I’m currently learning **React & Java**
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **soumyadeep.bs2023@gmail.com**
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,7 +28,7 @@
   </a>
 </p>
 
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -75,8 +72,6 @@
 
 </p>
 
-<br><br>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadeepbiswas-2027&show_icons=true&locale=en&layout=compact" />
 </p>
@@ -85,7 +80,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadeepbiswas-2027&show_icons=true&locale=en" />
 </p>
 
-<br><br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepbiswas-2027" />
