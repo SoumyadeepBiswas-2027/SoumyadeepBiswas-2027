@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Biswas</h1>
 <h3 align="center">A passionate developer "Empowering collaboration through code"</h3>
 
+<br>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=soumyadeepbiswas-2027&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
+<br>
 
-- 🌱 I’m currently learning **React & Java**
-
-- 👯 I’m looking to collaborate on **Innovative projects**
-
-- 💬 Ask me about **Python, C, HTML, CSS, JavaScript, Java, ReactJS, Numpy, Pandas**
-
+- 🌱 I’m currently learning **React & Java**  
+- 👯 I’m looking to collaborate on **Innovative projects**  
+- 💬 Ask me about **Python, C, HTML, CSS, JavaScript, Java, ReactJS, Numpy, Pandas**  
 - 📫 How to reach me **soumyadeep.bs2023@gmail.com**
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -72,15 +72,18 @@
 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadeepbiswas-2027&show_icons=true&locale=en&layout=compact" />
-</p>
+<br><br>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadeepbiswas-2027&show_icons=true&locale=en" />
-</p>
-
+<!-- Stats Section -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepbiswas-2027" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadeepbiswas-2027&show_icons=true&locale=en&layout=compact" height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepbiswas-2027" height="160"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepbiswas-2027&show_icons=true&locale=en" height="160"/>
 </p>
