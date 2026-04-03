@@ -80,6 +80,6 @@
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepbiswas-2027&show_icons=true&locale=en" height="160"/>
-</p> -->
+</p> 
