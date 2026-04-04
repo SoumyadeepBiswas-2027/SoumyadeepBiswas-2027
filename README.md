@@ -15,18 +15,22 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <p align="left">
-  <a href="https://linkedin.com/in/soumyadeep-biswas" target="_blank" style="margin-right: 15px;">
+  <a href="https://linkedin.com/in/soumyadeep-biswas" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
   </a>
 
-  <a href="https://x.com/Soumyadeep58881" target="_blank" style="margin-right: 15px;">
+  <img width="10"/>
+
+  <a href="https://x.com/Soumyadeep58881" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" width="30" />
   </a>
+
+  <img width="10"/>
 
   <a href="https://www.hackerrank.com/profile/soumyadeep_bs201" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="30" />
   </a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
