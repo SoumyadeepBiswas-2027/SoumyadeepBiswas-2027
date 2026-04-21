@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Soumyadeep Biswas  
-### 🚀 AI Developer | Full Stack Enthusiast | Building Intelligent Systems
+### 🚀 Frontend Developer | Learning Full Stack Development & AI
 
 📧 Reach me at: **soumyadeep.bs2023@gmail.com**
 
