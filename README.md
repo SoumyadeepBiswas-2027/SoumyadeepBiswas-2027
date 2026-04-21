@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React & Java**  
+- 🌱 I’m currently learning **AI,Backend & Java**  
 - 👯 I’m looking to collaborate on **Innovative projects**  
 - 💬 Ask me about **Python, C, HTML, CSS, JavaScript, Java, ReactJS, Numpy, Pandas**  
 - 📫 How to reach me **soumyadeep.bs2023@gmail.com**
