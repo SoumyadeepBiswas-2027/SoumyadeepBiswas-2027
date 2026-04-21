@@ -1,58 +1,77 @@
-<h1 align="center">Hi 👋, I'm Soumyadeep Biswas</h1>
-<h3 align="center">A passionate developer "Empowering collaboration through code"</h3>
+# 💫 Hi 👋, I'm Soumyadeep Biswas  
+### 🚀 AI Developer | Full Stack Enthusiast | Building Intelligent Systems
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=soumyadeepbiswas-2027&label=Profile%20views&color=0e75b6&style=flat" /> 
-</p>
+📧 Reach me at: **soumyadeep.bs2023@gmail.com**
 
-- 🌱 I’m currently learning **AI, Backend & Java**  
-- 👯 I’m looking to collaborate on **Innovative projects**  
-- 💬 Ask me about **Python, C, HTML, CSS, JavaScript, Java, ReactJS, Numpy, Pandas**  
-- 📫 How to reach me **soumyadeep.bs2023@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 About Me
+- 🔭 Currently working on: **AI-powered Medical Assistant**
+- 🌱 Learning: **Machine Learning, Backend Systems, Java**
+- 👯 Open to collaborate on: **Innovative AI / Web Projects**
+- 💬 Ask me about: **Python, C, React, JavaScript, ML basics**
+- ⚡ Fun fact: *I don’t just build projects — I build ideas into reality.*
 
-<p align="left" style="display:flex; gap:12px; align-items:center;">
+---
 
-<a href="https://linkedin.com/in/soumyadeep-biswas" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
-</a>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeep-biswas) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soumyadeep58881) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/soumyadeep_bs201)
 
-<a href="https://x.com/Soumyadeep58881" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" width="30" />
-</a>
+---
 
-<a href="https://www.hackerrank.com/profile/soumyadeep_bs201" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="30" />
-</a>
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h3 align="left">Languages and Tools:</h3>
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+---
 
-<!-- Stats Section -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SoumyadeepBiswas-2027&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadeepbiswas-2027&show_icons=true&locale=en&layout=compact" height="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepbiswas-2027" height="160"/>
-</p>
+---
 
-<br>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=SoumyadeepBiswas-2027&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepBiswas-2027&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepBiswas-2027&layout=compact&theme=radical)
+
+---
+
+## 🧩 Featured Project
+🚀 **AI Medical Assistant**  
+> An intelligent system that remembers past treatments, detects harmful patterns, and assists doctors in decision-making.
+
+---
+
+## ✨ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Contribution Stats
+![](https://github-contributor-stats.vercel.app/api?username=SoumyadeepBiswas-2027&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</div>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepbiswas-2027&show_icons=true&locale=en" height="160"/>
