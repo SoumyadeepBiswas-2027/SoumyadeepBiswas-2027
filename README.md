@@ -52,9 +52,7 @@
 
 ---
 
-## 🧩 Featured Project
-🚀 **AI Medical Assistant**  
-> An intelligent system that remembers past treatments, detects harmful patterns, and assists doctors in decision-making.
+
 
 ---
 
